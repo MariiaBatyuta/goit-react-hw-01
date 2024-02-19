@@ -7,27 +7,6 @@
     margin-right: 12px;
 }
 
-.friendCard:nth-last-child(2) {
+.friendCard:last-child {
     margin-right: 0;
-}
-
-.photo {
-    margin: 12px;
-}
-
-.friendInfo {
-    margin: 0;
-    font-weight: bold;
-}
-
-.friendInfo:last-child {
-    color: green;
-    font-weight: normal;
-    margin-bottom: 12px;
-}
-
-.isOffline {
-    color: red;
-    margin: 0;
-    margin-bottom: 12px;
 }
